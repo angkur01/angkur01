@@ -1,9 +1,9 @@
 <?php
 
-$host = "sql308.infinityfree.com";
-$user = "if0_41298912";
-$password = "kRAR5F7ZdbItFC";
-$database = "if0_41298912_angkur"; // change if using another database
+$host = "sql12.freesqldatabase.com";
+$user = "sql12819336";
+$password = "W2UZxLEJEZ";
+$database = "sql12819336"; // change if using another database
 
 $conn = new mysqli($host, $user, $password, $database);
 
